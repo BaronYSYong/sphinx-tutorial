@@ -3,6 +3,8 @@
 ## Reference
 * https://pythonhosted.org/an_example_pypi_project/sphinx.html
 * http://www.sphinx-doc.org/en/stable/tutorial.html
+* http://www.sphinx-doc.org/en/stable/ext/math.html
+* https://thomas-cokelaer.info/tutorials/sphinx/docstring_python.html
 
 ## Installation
 ```
