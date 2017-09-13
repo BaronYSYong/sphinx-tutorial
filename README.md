@@ -55,3 +55,10 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 ```
 Create a file called code.rst and paste below into it
+```
+Documentation for the Code
+**************************
+.. automodule:: Algorithm.template
+   :members:
+
+```
