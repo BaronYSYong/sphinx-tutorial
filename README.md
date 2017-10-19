@@ -5,6 +5,7 @@
 * http://www.sphinx-doc.org/en/stable/tutorial.html
 * http://www.sphinx-doc.org/en/stable/ext/math.html
 * https://thomas-cokelaer.info/tutorials/sphinx/docstring_python.html
+* http://blog.amedama.jp/entry/2015/10/15/212527
 
 ## Installation
 ```
